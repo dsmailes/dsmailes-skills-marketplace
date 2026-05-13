@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tech Test Coach"
+  short_description: "Coaching for coding challenges and tech tests"
+  default_prompt: "Use $tech-test-coach."

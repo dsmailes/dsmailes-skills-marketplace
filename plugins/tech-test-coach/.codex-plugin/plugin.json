@@ -1,0 +1,42 @@
+{
+  "name": "tech-test-coach",
+  "version": "0.1.0",
+  "description": "A reusable coaching skill for coding challenges, tech tests, and interview debugging practice.",
+  "author": {
+    "name": "David Smailes",
+    "email": "",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "coding-challenge",
+    "tech-test",
+    "debugging",
+    "interview-practice",
+    "coaching"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Tech Test Coach",
+    "shortDescription": "Guided coaching for coding challenges",
+    "longDescription": "Coach developers through coding challenges, take-home tech tests, debugging assessments, mobile app tasks, and failing-test repositories without immediately giving away the solution.",
+    "developerName": "David Smailes",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Code Review",
+      "Testing Guidance"
+    ],
+    "websiteURL": "",
+    "privacyPolicyURL": "",
+    "termsOfServiceURL": "",
+    "defaultPrompt": [
+      "Use $tech-test-coach.",
+      "Review my latest challenge diff.",
+      "Show my challenge progress."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

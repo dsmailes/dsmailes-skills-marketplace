@@ -1,0 +1,20 @@
+{
+  "name": "tech-test-coach-marketplace",
+  "interface": {
+    "displayName": "Tech Test Coach Marketplace"
+  },
+  "plugins": [
+    {
+      "name": "tech-test-coach",
+      "source": {
+        "source": "local",
+        "path": "./plugins/tech-test-coach"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
