@@ -1,7 +1,7 @@
 {
-  "name": "tech-test-coach-marketplace",
+  "name": "dsmailes-skills-marketplace",
   "interface": {
-    "displayName": "Tech Test Coach Marketplace"
+    "displayName": "DSmailes' Skills Marketplace"
   },
   "plugins": [
     {
