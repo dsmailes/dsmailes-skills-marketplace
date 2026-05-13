@@ -1,4 +1,4 @@
-# Tech Test Coach Marketplace
+# Dsmailes' LLM Agent Skills Marketplace
 
 A shareable Codex marketplace containing the `tech-test-coach` plugin and skill.
 
