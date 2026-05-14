@@ -1,0 +1,44 @@
+{
+  "name": "mobile-stack-translator",
+  "version": "0.1.0",
+  "description": "A mobile development skill for explaining how code, patterns, and platform concepts map across Swift/iOS, Kotlin/Android, Flutter, and React Native.",
+  "author": {
+    "name": "David Smailes",
+    "email": "david.smailes@gmail.com",
+    "url": "https://github.com/dsmailes/dsmailes-skills-marketplace"
+  },
+  "homepage": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+  "repository": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+  "license": "MIT",
+  "keywords": [
+    "mobile",
+    "swift",
+    "kotlin",
+    "flutter",
+    "react-native",
+    "cross-platform",
+    "learning"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Mobile Stack Translator",
+    "shortDescription": "Explain mobile code across major app stacks",
+    "longDescription": "Help mobile developers understand how snippets, files, features, lifecycle patterns, UI state, navigation, concurrency, persistence, networking, and tests map between Swift/iOS, Kotlin/Android, Flutter, and React Native.",
+    "developerName": "David Smailes",
+    "category": "Productivity",
+    "capabilities": [
+      "Learning",
+      "Code Review",
+      "Developer Tools"
+    ],
+    "websiteURL": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+    "privacyPolicyURL": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+    "termsOfServiceURL": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+    "defaultPrompt": [
+      "Use $mobile-stack-translator.",
+      "Use $mobile-stack-translator to explain how this mobile code maps to another stack.",
+      "Compare this Swift, Kotlin, Flutter, or React Native code with the equivalent pattern in another mobile framework."
+    ],
+    "brandColor": "#0F766E"
+  }
+}

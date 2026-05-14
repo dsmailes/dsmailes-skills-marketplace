@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Stack Translator"
+  short_description: "Explain mobile code across Swift, Kotlin, Flutter, and React Native"
+  default_prompt: "Use $mobile-stack-translator to explain how this mobile code maps to another stack."
