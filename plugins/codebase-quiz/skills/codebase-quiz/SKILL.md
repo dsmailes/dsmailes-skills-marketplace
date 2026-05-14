@@ -31,6 +31,8 @@ Before asking questions, inspect enough local evidence to make the quiz real:
 - likely entry points and core modules
 - recent diffs when the user asks about current work
 
+Limit the orientation pass to the most relevant 8-12 files unless the user asks for a deeper quiz.
+
 Keep the visible orientation summary short: 3-5 bullets naming the major areas found. Do not explain the answers to the quiz during orientation.
 
 ## Question Design
