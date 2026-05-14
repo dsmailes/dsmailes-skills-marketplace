@@ -1,0 +1,43 @@
+{
+  "name": "codebase-quiz",
+  "version": "0.1.0",
+  "description": "A three-question interactive skill for learning and maintaining awareness of a codebase.",
+  "author": {
+    "name": "David Smailes",
+    "email": "",
+    "url": ""
+  },
+  "homepage": "",
+  "repository": "",
+  "license": "MIT",
+  "keywords": [
+    "codebase",
+    "quiz",
+    "onboarding",
+    "learning",
+    "architecture",
+    "self-assessment"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Codebase Quiz",
+    "shortDescription": "Three-question codebase awareness quiz",
+    "longDescription": "Quiz developers on a repository with three adaptive, evidence-based questions that build codebase awareness without letting the agent do all the learning work.",
+    "developerName": "David Smailes",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Code Review",
+      "Learning"
+    ],
+    "websiteURL": "",
+    "privacyPolicyURL": "",
+    "termsOfServiceURL": "",
+    "defaultPrompt": [
+      "Use $codebase-quiz.",
+      "Use $codebase-quiz to quiz me on this repo.",
+      "Use $codebase-quiz to test my understanding of the current codebase."
+    ],
+    "brandColor": "#16A34A"
+  }
+}

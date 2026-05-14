@@ -5,6 +5,18 @@
   },
   "plugins": [
     {
+      "name": "codebase-quiz",
+      "source": {
+        "source": "local",
+        "path": "./plugins/codebase-quiz"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "tech-test-coach",
       "source": {
         "source": "local",

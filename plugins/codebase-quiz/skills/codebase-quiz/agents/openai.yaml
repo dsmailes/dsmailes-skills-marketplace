@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Quiz"
+  short_description: "Three-question codebase awareness quiz"
+  default_prompt: "Use $codebase-quiz to quiz me on this codebase."
