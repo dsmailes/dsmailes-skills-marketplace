@@ -4,11 +4,11 @@
   "description": "A reusable coaching skill for coding challenges, tech tests, and interview debugging practice.",
   "author": {
     "name": "David Smailes",
-    "email": "",
-    "url": ""
+    "email": "david.smailes@gmail.com",
+    "url": "https://github.com/dsmailes/dsmailes-skills-marketplace"
   },
-  "homepage": "",
-  "repository": "",
+  "homepage": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+  "repository": "https://github.com/dsmailes/dsmailes-skills-marketplace",
   "license": "MIT",
   "keywords": [
     "coding-challenge",
@@ -29,9 +29,9 @@
       "Code Review",
       "Testing Guidance"
     ],
-    "websiteURL": "",
-    "privacyPolicyURL": "",
-    "termsOfServiceURL": "",
+    "websiteURL": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+    "privacyPolicyURL": "https://github.com/dsmailes/dsmailes-skills-marketplace",
+    "termsOfServiceURL": "https://github.com/dsmailes/dsmailes-skills-marketplace",
     "defaultPrompt": [
       "Use $tech-test-coach.",
       "Review my latest challenge diff.",
